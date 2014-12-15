@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">VrakApp</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="action_settings" translatable="false">Settings</string>
+	<string name="header">Pealkiri</string>
+	<string name="comment">Kommentaar</string>
+	<string name="send_form">Salvesta</string>
+</resources>
